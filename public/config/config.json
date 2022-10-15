@@ -1,0 +1,21 @@
+{
+  "CONTRACT_ADDRESS": "0xdd5aFC4C375E92a88E9Ab468c08D4561459cCfa8",
+  "SCAN_LINK": "https://testnet.snowtrace.io/address/0xdd5aFC4C375E92a88E9Ab468c08D4561459cCfa8",
+  "NETWORK": {
+    "NAME": "Avalanche",
+    "SYMBOL": "AVAX",
+    "ID": 43113
+  },
+  "NFT_NAME": "WhiteListNFT",
+  "SYMBOL": "WhiteListNFT",
+  "MAX_SUPPLY": 1000,
+  "DISPLAY_COST": 0,
+  "GAS_LIMIT": 145000,
+  "MAX_PER_TX": 1,
+  "MARKETPLACE": "JoePegs",
+  "MARKETPLACE_LINK": "https://joepegs.com/collections",
+  "Telegram": "https://",
+  "Discord": "https://",
+  "Twitter": "https://",
+  "SHOW_BACKGROUND": false
+}
